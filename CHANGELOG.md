@@ -7,6 +7,9 @@
 
 ## Unreleased: mitmproxy next
 
+
+## 19 July 2024: mitmproxy 10.3.2
+
 * Add support for DNS over TCP.
   ([#6935](https://github.com/mitmproxy/mitmproxy/pull/6935), @errorxyz)
 * Fix non-linear growth in processing time for large HTTP bodies.
